@@ -48,5 +48,5 @@ Two implementations are provided:
 - Thousands of threads running simultaneously
 - Significant speed improvement compared to CPU
 
-GPU-based brute-force can drastically increase the number of attempts per second, making weak passwords vulnerable to fast attacks :contentReference[oaicite:1]{index=1}.
+
 
